@@ -1,0 +1,14 @@
+{
+  "name": "text-over-image",
+  "version": "1.0.0",
+  "description": "Small lib to fit text into a given box and render it over image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TrueCarry",
+  "license": "ISC",
+  "dependencies": {
+    "imagemagick": "^0.1.3"
+  }
+}
